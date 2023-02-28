@@ -49,7 +49,9 @@ The following graph plots the overall distance from each sample to the centroid 
 ![image](https://user-images.githubusercontent.com/96924468/221922658-45c76b9f-1033-4289-8111-ceba3a1d01bf.png)
 
 
+### **Local solutions in K-means**
 
+The K-means algorithm looks for the clustering arrangement that minimises the intra-cluster sample scatter. However, there is no guarantee that K-means will find the so-called global best, but a local one. We could expect K-means to return a different clustering arrangement if the initial location of the centroids changed. In the previous cells, by changing the value of my_seed the initialisation of the centroids change.
 
 
 
