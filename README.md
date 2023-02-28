@@ -1,4 +1,4 @@
-# clustering-part-1
+# Clustering-part-1
 
 The aim of this notebook is to explore clustering.
 
