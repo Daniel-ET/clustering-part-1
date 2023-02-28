@@ -27,5 +27,5 @@ K-means proceeds iteratively by
 
 Until the stop criterion it met.
 
-![image](https://user-images.githubusercontent.com/96924468/221920911-c595d0be-97a7-4fe8-89c2-3b6110a28add.png)
+![image](https://user-images.githubusercontent.com/96924468/221921097-b3d3d211-8bca-4fd9-938c-add9d556100e.png)
 
