@@ -24,3 +24,8 @@ K-means proceeds iteratively by
 
 1. Updating the centroids as the centre of each cluster
 2. Reassigning the samples to the new centroids
+
+Until the stop criterion it met.
+
+![image](https://user-images.githubusercontent.com/96924468/221920911-c595d0be-97a7-4fe8-89c2-3b6110a28add.png)
+
