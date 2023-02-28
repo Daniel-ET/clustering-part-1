@@ -27,5 +27,40 @@ K-means proceeds iteratively by
 
 Until the stop criterion it met.
 
-![image](https://user-images.githubusercontent.com/96924468/221921097-b3d3d211-8bca-4fd9-938c-add9d556100e.png)
+![image](https://user-images.githubusercontent.com/96924468/221921256-89e3ad7e-2227-4345-9614-78b0d90087af.png)
+![image](https://user-images.githubusercontent.com/96924468/221921337-cc3ab35f-b145-436b-b193-4ad1d8b737de.png)
+![image](https://user-images.githubusercontent.com/96924468/221921415-a9931d4b-b6f1-4e55-8378-c52ea3fca56c.png)
+![image](https://user-images.githubusercontent.com/96924468/221921497-89dfb686-4cee-4831-a41a-b43835795595.png)
+![image](https://user-images.githubusercontent.com/96924468/221921573-2ea22977-f1fd-4c73-a6d8-30f8b838e082.png)
+![image](https://user-images.githubusercontent.com/96924468/221921691-ab9b44e8-2f53-4b1f-a979-807d76e31fe1.png)
+![image](https://user-images.githubusercontent.com/96924468/221921773-698c5aa5-9849-49d2-82c8-d6e212e47f24.png)
+![image](https://user-images.githubusercontent.com/96924468/221921869-a41e3f1b-d03a-440c-9506-d5770382d5e2.png)
+![image](https://user-images.githubusercontent.com/96924468/221921971-85af0646-ef23-4eeb-b8f4-f5cd204b1993.png)
+![image](https://user-images.githubusercontent.com/96924468/221922050-803bf5c3-d456-446e-b75a-c7194cd8a7fd.png)
+![image](https://user-images.githubusercontent.com/96924468/221922125-e4ca08cc-7505-4a5c-8d98-be4441481ae6.png)
+![image](https://user-images.githubusercontent.com/96924468/221922180-be08938d-b3b3-4648-9bae-2cc803fb1e02.png)
+![image](https://user-images.githubusercontent.com/96924468/221922252-e355d305-7694-4632-95fe-6bf0ac387841.png)
+![image](https://user-images.githubusercontent.com/96924468/221922326-56fb504b-aacf-46a1-8761-434e2cd94999.png)
+![image](https://user-images.githubusercontent.com/96924468/221922393-e2212bc4-4d35-4aab-8991-374b6b21f714.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
