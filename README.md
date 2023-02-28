@@ -6,3 +6,4 @@ We will use the Iris flower dataset. The Iris flower fataset is a classic datase
 
 After loading the dataset, we will extract two of the attributes and will run the K-means algorithm to obtain 3 clusters
 
+We will only work with the first two attributes (sepal length, sepal width), which will be stored in the variable X
