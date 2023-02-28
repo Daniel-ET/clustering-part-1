@@ -17,3 +17,10 @@ K-means uses K centroids to represent each cluster and clusters are formed by as
 ![image](https://user-images.githubusercontent.com/96924468/221918721-bdcd55ee-0dbc-4469-9bb4-078c0800f2ea.png)
 
 As we can see, there are 3 centroids represented by a cross of a different colour. Samples are represented by a circle whose colour corresponds to the cluster they have been assigned to. The 3 resulting clusters consist of samples that are close to one another. However, samples in different clusters are also close to one another.
+
+### ** K means iterative update**
+
+K-means proceeds iteratively by
+
+1. Updating the centroids as the centre of each cluster
+2. Reassigning the samples to the new centroids
