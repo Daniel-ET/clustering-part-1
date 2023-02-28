@@ -44,8 +44,9 @@ Until the stop criterion it met.
 ![image](https://user-images.githubusercontent.com/96924468/221922393-e2212bc4-4d35-4aab-8991-374b6b21f714.png)
 
 
+The following graph plots the overall distance from each sample to the centroid they have been assigned to in each iteration. This distance is the intra sample scatter
 
-
+![image](https://user-images.githubusercontent.com/96924468/221922658-45c76b9f-1033-4289-8111-ceba3a1d01bf.png)
 
 
 
